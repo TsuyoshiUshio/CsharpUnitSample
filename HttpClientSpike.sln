@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27924.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpClientSpike", "HttpClientSpike\HttpClientSpike.csproj", "{BD44E9C1-2B8E-4CAB-BF13-E534A251B6EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpClientSpike.Test", "HttpClientSpike.Test\HttpClientSpike.Test.csproj", "{A8626652-469E-4C0B-8FCD-E08250FDF65E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{BD44E9C1-2B8E-4CAB-BF13-E534A251B6EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD44E9C1-2B8E-4CAB-BF13-E534A251B6EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD44E9C1-2B8E-4CAB-BF13-E534A251B6EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8626652-469E-4C0B-8FCD-E08250FDF65E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8626652-469E-4C0B-8FCD-E08250FDF65E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8626652-469E-4C0B-8FCD-E08250FDF65E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8626652-469E-4C0B-8FCD-E08250FDF65E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
